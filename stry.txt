@@ -1,2 +1,4 @@
 hello this is my text file
 this is the first program for file handling
+hello guys
+python padh lo
