@@ -1,0 +1,5 @@
+a = open(f"stry.txt", 'r')
+out = a.read()
+temp = out.split()
+print(max(temp, key=len))
+a.close()
